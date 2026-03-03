@@ -1,5 +1,6 @@
-# LockBit
-LockBit 3.0, also known as “LockBit Black,” is more modular and evasive than its previous versions and shares similarities with Blackmatter and Blackcat ransomware.
+# LockBit: Comprehensive Malware Analysis for Cyber Officers
+
+This repository contains comprehensive technical, strategic, and operational analysis of LockBit 3.0 ransomware for authorized cybersecurity professionals and cyber officers.
 
 ## Initial Access
 Anyone deploying LockBit 3.0 ransomware gains initial access to victim networks via remote desktop protocol (RDP) exploitation, drive-by compromise, phishing campaigns, abuse of valid accounts, and exploitation of public-facing applications.
